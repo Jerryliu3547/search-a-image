@@ -69,7 +69,7 @@ function App() {
         settings: {
           dots: false,
           infinite: true,
-          slidesToShow: 10,
+          slidesToShow: images.length,
           slidesToScroll: 1,
           initialSlide: 3,
           vertical: true,
