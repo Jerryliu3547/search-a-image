@@ -71,7 +71,7 @@ function App() {
           infinite: true,
           slidesToShow: 10,
           slidesToScroll: 1,
-          initialSlide: 2,
+          initialSlide: 3,
           vertical: true,
           verticalSwiping: true,
           swipeToSlide: true
